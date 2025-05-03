@@ -19,4 +19,6 @@ Gained skills in R, SQL, Tableau and spreadsheet functions. Learned how to formu
 Linear algebra, calculus, and statistics & probability courses taught by Luis Serrano
 
 ## Portfolio Projects:
-NASA Meteorite Trends Analysis, completed 2025
+- [🌠 NASA Meteorite Landings](https://github.com/sumayyamoh22/meteorite-trends)  
+  Spatial and temporal analysis of over 34,000 meteorite landings using R, `sf`, and interactive maps.
+
