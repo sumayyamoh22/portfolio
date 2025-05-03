@@ -8,3 +8,10 @@ Data Science Intern - Cleaned and analyzed data from students that CPC worked wi
 
 ## Education
 B.S. Cognitive Behavioral Neuroscience 2024 - Loyola University Chicago
+
+Google Data Analytics Certificate - 2024
+
+DeepLearningAI Math for Machine Learning and Data Science - 2025
+
+## Portfolio Projects:
+NASA Meteorite Trends Analysis, completed 2025
