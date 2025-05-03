@@ -1,4 +1,3 @@
-# Sumayya Mohammed
 # Neuroscience Graduate, Jr. Data Science
 ## Experience
 ### Revive, April 2025 - Present
